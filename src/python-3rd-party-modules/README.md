@@ -10,22 +10,37 @@
 - [Python 3rd Party Modules](#python-3rd-party-modules)
   - [Intro](#intro)
   - [Index](#index)
-  - [Table](#table)
+  - [Tables](#tables)
+    - [Modules](#modules)
+    - [Tags](#tags)
   - [Modules Introduction](#modules-introduction)
     - [Rich](#rich)
     - [Pretty Errors](#pretty-errors)
     - [Requests](#requests)
     - [Pycord](#pycord)
 
-## Table
+## Tables
 
-| Module Name     | Description                  | Introduction Index               | PyPI                                | Github                                            | Tags                    |
-| --------------- | ---------------------------- | -------------------------------- | ----------------------------------- | ------------------------------------------------- | ----------------------- |
-| `Rich`          | 提供豐富的文字效果及格式輸出 | [#rich](#rich)                   | [rich][rich-pypi]                   | [Textualize/rich][rich-github]                    | `#pretty-print #output` |
-| `Pretty Errors` | 優化錯誤訊息                 | [#pretty-errors](#pretty-errors) | [pretty-errors][pretty-errors-pypi] | [onelivesleft/PrettyErrors][pretty-errors-github] | `#errors`               |
-| `Requests`      | 請求網路上的資源，用於爬蟲   | [#requests](#requests)           | [requests][requests-pypi]           | [psf/requests][requests-github]                   | `#request #HTTP`        |
-| `Pycord`        | 用於編寫Discord Bot          | [#pycord](#pycord)               | [py-cord][pycord-pypi]              | [Pycord-Development/pycord][pycord-github]        | `#discord-bot`          |
-|                 |                              |                                  |                                     |                                                   |                         |
+### Modules
+
+| Module Name     | Description                  | Introduction Index               | PyPI                                | Github                                            | Tags                      |
+| --------------- | ---------------------------- | -------------------------------- | ----------------------------------- | ------------------------------------------------- | ------------------------- |
+| `Rich`          | 提供豐富的文字效果及格式輸出 | [#rich](#rich)                   | [rich][rich-pypi]                   | [Textualize/rich][rich-github]                    | `#pretty-print` `#output` |
+| `Pretty Errors` | 優化錯誤訊息                 | [#pretty-errors](#pretty-errors) | [pretty-errors][pretty-errors-pypi] | [onelivesleft/PrettyErrors][pretty-errors-github] | `#errors`                 |
+| `Requests`      | 請求網路上的資源，用於爬蟲   | [#requests](#requests)           | [requests][requests-pypi]           | [psf/requests][requests-github]                   | `#request` `#HTTP`        |
+| `Pycord`        | 用於編寫Discord Bot          | [#pycord](#pycord)               | [py-cord][pycord-pypi]              | [Pycord-Development/pycord][pycord-github]        | `#discord-bot`            |
+|                 |                              |                                  |                                     |                                                   |                           |
+
+### Tags
+
+| Tag Name        | Description    |
+| --------------- | -------------- |
+| `#pretty-print` | 美化輸出       |
+| `#output`       | 輸出           |
+| `#errors`       | 錯誤           |
+| `#request`      | 網路請求       |
+| `#HTTP`         | HTTP 相關      |
+| `#discord-bot`  | Discord 機器人 |
 
 
 ## Modules Introduction
