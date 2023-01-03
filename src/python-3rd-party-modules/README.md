@@ -2,8 +2,8 @@
 
 ## Intro
 
-分享一些我常用的第三方模組
-Platform: `Windows 10, Python 3.11.x`
+分享一些我常用的第三方模組  
+平台：`Windows 10, Python 3.11.x`
 
 ## Index
 
