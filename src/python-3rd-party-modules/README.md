@@ -11,7 +11,7 @@ Platform: `Windows 10, Python 3.11.x`
   - [Intro](#intro)
   - [Index](#index)
   - [Table](#table)
-  - [Introduction](#introduction)
+  - [Modules Introduction](#modules-introduction)
     - [Rich](#rich)
     - [Pretty Errors](#pretty-errors)
     - [Requests](#requests)
@@ -28,7 +28,7 @@ Platform: `Windows 10, Python 3.11.x`
 |                 |                              |                                  |                                     |                                                   |                         |
 
 
-## Introduction
+## Modules Introduction
 
 ### Rich
 > Rich 是一款提供終端機介面中 *豐富的* 文字效果及精美的格式設定的 Python 函式庫。
