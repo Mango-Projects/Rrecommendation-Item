@@ -191,4 +191,4 @@
 <!-- Introduction Links -->
 [rich-features]: https://raw.githubusercontent.com/textualize/rich/master/imgs/features.png
 [pretty-errors-features]: https://raw.githubusercontent.com/onelivesleft/PrettyErrors/master/example.png
-[pipx-featues]: https://raw.githubusercontent.com/pypa/pipx/main/pipx_demo.gif
+[pipx-features]: https://raw.githubusercontent.com/pypa/pipx/main/pipx_demo.gif
