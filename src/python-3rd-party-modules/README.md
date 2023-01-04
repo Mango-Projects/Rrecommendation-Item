@@ -33,8 +33,8 @@
 | `Requests`         | 請求網路上的資源，用於爬蟲   | [#requests](#requests)                 | [requests][requests-pypi]               | [psf/requests][requests-github]                   | `#request` `#HTTP`               |
 | `Pycord`           | 用於編寫Discord Bot          | [#pycord](#pycord)                     | [py-cord][pycord-pypi]                  | [Pycord-Development/pycord][pycord-github]        | `#discord-bot`                   |
 | `Pipx`             | 在虛擬環境裡安裝Python模組   | [#pipx](#pipx)                         | [pipx][pipx-pypi]                       | [pypa/pipx1][pipx-github]                         | `#package-manage`                |
-| `PDM`              | 構建虛擬環境並整合           | [#pdm](#pdm)                           | [pdm][pdm-pypi]                         | [pdm-project/pdm][pdm-github]                     | `#environment`,`#package-manage` |
-| `Beautiful Soup 4` | 解析html/xml文件             | [#beautiful-soup-4](#beautiful-soup-4) | [beautifulsoup4][beautiful-soup-4-pypi] | None                                              | `#HTML`,`#XML`,`#parser`         |
+| `PDM`              | 構建虛擬環境並整合           | [#pdm](#pdm)                           | [pdm][pdm-pypi]                         | [pdm-project/pdm][pdm-github]                     | `#environment` `#package-manage` |
+| `Beautiful Soup 4` | 解析html/xml文件             | [#beautiful-soup-4](#beautiful-soup-4) | [beautifulsoup4][beautiful-soup-4-pypi] | None                                              | `#HTML` `#XML` `#parser`         |
 
 ### Tags
 
